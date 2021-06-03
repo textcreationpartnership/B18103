@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief account of the tryal of Peter Cooke, esq; who was tryed before the Lord Chief Justice Treby, &amp;c. At the Sessions-House in the Old Baily, on Wednesday, May 13. 1696. for high treason.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18103</idno><idno type="EEBO-CITATION">99886905</idno>
+  <idno type="VID">189656</idno>
+  <idno type="EEBO-PROQUEST">2240882164</idno>
+  
+            <idno type="STC">Wing B4522</idno>
+            <idno type="STC">Interim Tract Supplement Guide 515.l.2[162]</idno>
+            <idno type="STC">ESTC R226758</idno>
+            <idno type="PROQUEST">ocm99886905</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886905e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18103)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189656)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C17:1[163])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief account of the tryal of Peter Cooke, esq; who was tryed before the Lord Chief Justice Treby, &amp;c. At the Sessions-House in the Old Baily, on Wednesday, May 13. 1696. for high treason.</title>
+                  <author>England and Wales. Court of Quarter Sessions of the Peace (Middlesex)</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Greene,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cooke, Peter, d. 1696 --  Early works to 1800.</term>
+               <term type="topical_term">Lancashire Plot, 1689-1694 --  Early works to 1800.</term>
+               <term type="topical_term">Trials (Treason) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:189656:1"/>
+            <pb facs="tcp:189656:1"/>
+            <head>A Brief Account OF THE TRYAL OF Peter Cooke, Esq; Who was Tryed before the Lord Chief Justice TREBY, <hi>&amp;c.</hi> At the SESSIONS-HOUSE in the <hi>Old Baily,</hi> on <hi>Wednesday, May</hi> 13. 1696. for High Treason.</head>
+            <p>THE Court being sate, and the Pannel call'd over, the Priso<g ref="char:EOLhyphen"/>ners Council, who were Mr. Serjeant <hi>Darnell,</hi> and Sir <hi>Bar<g ref="char:EOLhyphen"/>tholomew Shore,</hi> made some Exceptions as to the Pannel, be<g ref="char:EOLhyphen"/>cause a new one, and urged. That the Prisoner ought to be Tryed upon the Old Pannel, which the Court over-ruled. After which, they made some Exceptions as to the Indictment, pretending false Latin, but that was also over-ruled.</p>
+            <p>Then the Prisoner was set to the Bar, and the Jury were called to be sworn, of whom he challenged 35 peremptorily; at length 12 were sworn, Mr. <hi>Henry Shelbrook</hi> being Fore-man; then the Indictment was read, setting forth as in former Tryals. Mr. Attorney General opened the Indictment at large, charging the Prisoner only with the Invasion.</p>
+            <p>The Witnesses against him were Capt. <hi>Porter,</hi> and Mr. <hi>Goodman,</hi> who deposed, That in order to the bringing in of K. <hi>James,</hi> there was a meet<g ref="char:EOLhyphen"/>ing in <hi>May</hi> last, at the <hi>Kings-Head</hi> in <hi>Leadenhall-street,</hi> where there dined the Earl of <hi>Aylesbury,</hi> the Lord <hi>Montgomery,</hi> Sir <hi>John Fenwick,</hi> Sir <hi>John Friend,</hi> Sir <hi>William Perkins,</hi> Mr. <hi>Charnock,</hi> the Prisoner, and Capt. <hi>Por<g ref="char:EOLhyphen"/>ter,</hi> and Mr. <hi>Goodman</hi> came in after Dinner; upon which they entred into a Consultation for restoring K. <hi>James;</hi> and it was agreed to send <hi>Charnock</hi> to <hi>France</hi> to invite over K. <hi>James</hi> with 8000 Foot, 1000 Horse, and 1000 Dragoons, promising to join him with 2000 Horse upon his Landing, <hi>&amp;c.</hi> And <hi>Chernock</hi> putting the Question, Whether they all consented he should go on that Errant? They all stood up and said, Yes you may. And both the Witnesses agreed, that all the rest sate, but the Prisoner kneeled on a Chair, and leaned on a Table; They were examined apart, at the Prisoners request.</p>
+            <pb facs="tcp:189656:2"/>
+            <p>The Prisoner's Counsel did not insist on the Matter of Fact, or the Overt Act, but endeavour'd to invalidate Mr. <hi>Goodman</hi>'s Testimony; to which end they produced a Record of his being Convicted of hiring one <hi>Amedie</hi> to impoyson two Flasks of <hi>Florence</hi> Wine, to poyson the Dukes of <hi>Grafton</hi> and <hi>Northumberland.</hi>
+            </p>
+            <p>Then they produced one <hi>Edwards,</hi> who said, That discoursing Mr. <hi>Good<g ref="char:EOLhyphen"/>man</hi> about Mr. <hi>Cook</hi>'s Tryal, he said, Mr. <hi>Cook</hi> or himself must Die, that Hanging was but a silly thing, with some other light Expressions. And this Evidence was contronted by Mr. <hi>De la Rue,</hi> who said, He went by the Name of <hi>Edwards,</hi> but his right Name was <hi>Douglas,</hi> was Chap<g ref="char:EOLhyphen"/>lain to <hi>Dundees</hi> Regiment, and was in the List of the Assassines, which <hi>Chernock</hi> sent to Capt. <hi>Porter.</hi> Next they produced two Drawers, and Mr. <hi>Cock</hi> the Vintner of the <hi>Kings-head,</hi> to prove, that Mr. <hi>Goodman</hi> was not at that Consultation. And these were confronted by Capt. <hi>Por<g ref="char:EOLhyphen"/>ter,</hi> and Mr. <hi>Goodman,</hi> who both gave particular instances of his be<g ref="char:EOLhyphen"/>ing there. Then they called one Mr. <hi>Hammond,</hi> and two others, who spoke to the Prisoners Reputation, that he was Religious, a Lover of his Country, an Abhorrer of all Invasions by Foreign Forces, and had often wished well to his Majesties Fleet, <hi>&amp;c.</hi>
+            </p>
+            <p>The Evidence on both sides being done, the Prisoners Counsel sum<g ref="char:EOLhyphen"/>med up the Evidence very eligantly in behalf of their Client, who then spoke in his own behalf, protesting his Innocence, <hi>&amp;c.</hi> with Asseve<g ref="char:EOLhyphen"/>rations.</p>
+            <p>Then the King's Counsel briefly answered the Objections made by the Prisoners Counsel against Mr. <hi>Goodman;</hi> after whom the Lord Chief Justice <hi>Treby,</hi> learnedly and impartially summed up the Evidence on both sides, leaving it fairly to the Jury, who withdrew, and after above half an hours Consultation, returned, and brought him in Guilty.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>R. Greene.</hi>
+            </p>
+            <pb facs="tcp:189656:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
